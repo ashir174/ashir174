@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammad Ashir as @ashir174 
 - 👀 I’m interested in learning new projects.
 - 🌱 I’m currently learning Java,Dart(Flutter),SQL and much more.
-- 💞️ I’m looking to collaborate on my upladed files to improve myself
+- 💞️ I’m looking to collaborate on my uploaded files to improve myself
 - 📫 How to reach me via Whatsapp no 0326-8519118
 
 <!---
