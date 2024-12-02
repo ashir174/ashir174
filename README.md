@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Mohammad Ashir as @ashir174 
-- 👀 I’m interested in learning new projects.
-- 🌱 I’m currently learning Java,Dart(Flutter),SQL and much more.
-- 💞️ I’m looking to collaborate on my uploaded files to improve myself
-- 📫 How to reach me via Whatsapp no 0326-8519118
+👋 Hi, I’m Mohammad Ashir (@ashir174)!
+👀 Passionate about exploring new technologies and building innovative projects.
+🌱 My current skill set includes:
 
-<!---
-ashir174/ashir174 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Programming Languages: Java, Dart (Flutter)
+# Backend Development: RESTful APIs, Firebase
+# Databases: SQL
+# Mobile App Development: Flutter for Android and iOS
+# Problem-Solving: Data Structures and Algorithms (DSA)
+# UI/UX Tools: Adobe Illustrator
+💡 Always eager to learn and grow, with a focus on app development and creative problem-solving.
+💞️ Open to collaboration on exciting projects and exploring new challenges to refine my skills.
+📫 Reach me on WhatsApp: +92 326-8519118
