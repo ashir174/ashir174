@@ -2,7 +2,7 @@
 
 👀 Passionate about learning and building exciting projects.
 
-🌱 Currently exploring Java, Dart (Flutter),Firebase, SQL, and much more!
+🌱 Currently exploring Java,Kotlin,Python,C++, Dart (Flutter),Firebase, SQL, and much more!
 
 💞️ Open to collaboration to refine and enhance my skills through shared learning.
 
