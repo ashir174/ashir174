@@ -1,8 +1,8 @@
-👋 Hi, I’m Mohammad Ashir (@ashir174)!
+👋 Hi, I’m Mohammad Ashir (@ashir174) a Full-Stack Mobile Application Developer!
 
 👀 Passionate about learning and building exciting projects.
 
-🌱 Currently exploring Java,Kotlin,Python,C++, Dart (Flutter),Firebase, SQL, and much more!
+🌱 Currently exploring Java SpringBoot, Kotlin, Python, C++, Flutter (Dart),Firebase, MySQL, Graphic Designing and much more!
 
 💞️ Open to collaboration to refine and enhance my skills through shared learning.
 
