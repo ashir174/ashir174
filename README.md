@@ -1,24 +1,56 @@
-# 👋 Hi, I’m Mohammad Ashir (@ashir174) — Full-Stack Mobile & Web Developer
+# 👋 Hi, I’m Muhammad Ashir
+# 🚀 Full-Stack Mobile & Web Developer | Backend Engineer | Creative Tech Enthusiast
 
-💡 I’m passionate about building real-world digital products with clean architecture, powerful backend systems, and modern user-friendly interfaces.
+I'm passionate about building real-world applications, learning modern technologies, and continuously growing as a developer.
 
-# 🚀 Technologies I work with:
+# 👀 What I Do
 
-Backend: Java, Spring Boot, Python, REST APIs
+Build mobile applications using Flutter (Dart)
 
-Mobile: Flutter (Dart), Kotlin
+Develop scalable backend systems using Java Spring Boot
 
-Frontend (Web): HTML, CSS, JavaScript
+Work with MySQL, Firebase and modern APIs
 
-Databases: MySQL, Firebase
+Create clean, functional UI/UX and graphic designs
 
-Tools & Skills: UI/UX Design, Graphic Design, Version Control
+Explore new tools in Python, Kotlin, C++, and cloud deployment
 
-# 📌 Portfolio:
-🌐 https://ashir174.github.io/Ashir-Portfolio/
+Deploy apps & APIs using Render, Railway, Vercel, and GitHub Pages
 
-# 🤝 Open to Collaboration:
-I enjoy working with developers and designers on meaningful projects that help improve skills, add real value, and encourage shared learning.
+# 🌱 Currently Learning
 
-# 📬 Reach Me:
-WhatsApp: +92 326-8519118
+Advanced Spring Boot (Security, JWT, Docker, REST APIs)
+
+Scalable backend deployment (Docker + Cloud hosting)
+
+Flutter animations & state management
+
+Full-stack architecture and performance optimization
+
+# 💼 Portfolio
+
+🔗 Check out my complete portfolio:
+https://ashir174.github.io/Ashir-Portfolio/
+
+# 💞️ Open to Collaboration
+
+I’m always open to working on meaningful projects that help me improve my skills and contribute genuinely.
+
+If you want to collaborate on:
+
+Mobile apps
+
+Full-stack applications
+
+API design
+
+Backend systems
+
+UI/UX improvements
+
+Feel free to reach out!
+
+# 📫 Contact Me
+
+📱 WhatsApp: +92 326 8519118
+📧 Available upon request
