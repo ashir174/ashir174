@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Muhammad Ashir — a passionate Full-Stack Mobile & Web Developer who loves building real-world applications that actually solve problems. I specialize in Flutter for mobile apps and Spring Boot for scalable backend systems.
+👋 Hi, I’m Muhammad Ashir — a passionate Full-Stack Mobile & Web Developer who loves building real-world applications that actually solve problems. I specialize in Kotlin & Flutter for mobile apps and Spring Boot for scalable backend systems.
 
 I enjoy turning ideas into clean, functional, and production-ready solutions, whether it’s a mobile app, a REST API, or a full-stack system. I’m always exploring new technologies, improving my architecture skills, and pushing myself to grow as a developer — one project at a time.
 
